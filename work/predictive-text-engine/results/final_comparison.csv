@@ -1,0 +1,3 @@
+Model,Best Smoothing,Validation Perplexity,Test Perplexity
+2-gram,0.1,290.4157,290.132
+3-gram,0.1,1727.3566,1720.4258

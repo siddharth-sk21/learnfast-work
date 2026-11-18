@@ -19,6 +19,8 @@ work/**/__pycache__/
 **/*.ckpt
 data/
 datasets/
+!work/predictive-text-engine/data/
+!work/predictive-text-engine/data/*.txt
 
 # Local noise
 __pycache__/
